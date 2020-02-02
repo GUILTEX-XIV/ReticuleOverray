@@ -51,7 +51,7 @@
             this.Location = new System.Drawing.Point(1500, 700);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
-            this.Text = "Form1";
+            this.Text = "ReticuleOverray";
             this.ResumeLayout(false);
 
         }
